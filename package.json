@@ -1,0 +1,27 @@
+{
+  "name": "porcelaincms",
+  "version": "0.0.1",
+  "description": "A simple CMS depend on Node+MySQL+Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porcelainHeart/porcelainCMS.git"
+  },
+  "keywords": [
+    "CMS",
+    "node",
+    "express",
+    "blog",
+    "mysql"
+  ],
+  "author": "porcelainHeart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/porcelainHeart/porcelainCMS/issues"
+  },
+  "homepage": "https://github.com/porcelainHeart/porcelainCMS#readme"
+}
